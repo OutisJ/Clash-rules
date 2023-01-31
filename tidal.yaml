@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
+  - DOMAIN-SUFFIX,tidal.com
+  - DOMAIN-SUFFIX,tidalhifi.com
+  - DOMAIN-SUFFIX,wimpmusic.com
+  - DOMAIN-SUFFIX,resources.tidal.com
+  - DOMAIN-SUFFIX,api.tidal.com
