@@ -1,7 +1,7 @@
 payload:
   # > Steam
   # - USER-AGENT,Steam*
-  - DOMAIN,cm.steampowered.com
+  - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN,ol.epicgames.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamserver.net
