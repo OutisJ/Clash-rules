@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,epicgamescdn.com #epic download
   - DOMAIN-SUFFIX,api.steampowered.com
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
